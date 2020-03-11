@@ -1,12 +1,12 @@
-D:\CODWork\
-°üº¬ÒÔÏÂ¹¤³Ì
+\CODWork\
+åŒ…å«ä»¥ä¸‹å·¥ç¨‹
 
-SCCPU_SIM ÊµÏÖÁË add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j 14ÌõÖ¸Áîµ¥ÖÜÆÚCPUµÄ ModelSim ¹¤³Ì
-SCCPU_SOC ÊµÏÖÁË add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j 14ÌõÖ¸Áîµ¥ÖÜÆÚCPUµÄ Vivado ¹¤³Ì
+SCCPU_SIM å®ç°äº† add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j 14æ¡æŒ‡ä»¤å•å‘¨æœŸCPUçš„ ModelSim å·¥ç¨‹
+SCCPU_SOC å®ç°äº† add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j 14æ¡æŒ‡ä»¤å•å‘¨æœŸCPUçš„ Vivado å·¥ç¨‹
 
 
-SCCPUJAL_SIM ÊµÏÖÁË add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15ÌõÖ¸Áîµ¥ÖÜÆÚCPUµÄ ModelSim ¹¤³Ì
-SCCPUJAL_SOC ÊµÏÖÁË add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15ÌõÖ¸Áîµ¥ÖÜÆÚCPUµÄ Vivado ¹¤³Ì
+SCCPUJAL_SIM å®ç°äº† add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15æ¡æŒ‡ä»¤å•å‘¨æœŸCPUçš„ ModelSim å·¥ç¨‹
+SCCPUJAL_SOC å®ç°äº† add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15æ¡æŒ‡ä»¤å•å‘¨æœŸCPUçš„ Vivado å·¥ç¨‹
 
-MCCPU_SIM ÊµÏÖÁË add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15ÌõÖ¸Áî¶àÖÜÆÚCPUµÄ ModelSim ¹¤³Ì
-MCCPU_SOC ÊµÏÖÁË add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15ÌõÖ¸Áî¶àÖÜÆÚCPUµÄ Vivado ¹¤³Ì
+MCCPU_SIM å®ç°äº† add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15æ¡æŒ‡ä»¤å¤šå‘¨æœŸCPUçš„ ModelSim å·¥ç¨‹
+MCCPU_SOC å®ç°äº† add/sub/and/or/slt/sltu/addu/subu/addi/ori/lw/sw/beq/j/jal 15æ¡æŒ‡ä»¤å¤šå‘¨æœŸCPUçš„ Vivado å·¥ç¨‹
